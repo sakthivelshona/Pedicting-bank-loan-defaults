@@ -31,3 +31,24 @@ In this project, we explore historical loan data, preprocess it, and train machi
    ```bash
    git clone https://github.com/your-username/predicting-loan-defaults.git
 
+   cd predicting-loan-defaults
+   
+   pip install -r requirements.txt
+
+
+## Usage
+
+Ensure you have the necessary dataset in the data directory.
+Run the data preprocessing scripts to clean and prepare the data.
+Explore the Jupyter notebooks for data analysis, visualization, and model training.
+Experiment with different machine learning algorithms and hyperparameters.
+Evaluate model performance and choose the best model for predictions.
+
+## Technologies Used
+Python
+Jupyter Notebook
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-Learn
