@@ -1,0 +1,111 @@
+/* Global Styles */
+body, html {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f6f9;
+}
+
+body, p {
+  color: #787976;
+  font: 400 1rem/1.5625rem "Open Sans", sans-serif;
+  text-align: center;
+  margin: 2px;
+}
+
+/* Add spacing between items */
+p {
+  margin: 12px; 
+  margin-bottom: 85px;
+  color: #bd1224;
+  font: 700 2.5rem/3rem "Montserrat", sans-serif;
+
+}
+
+.p-heading {
+  margin-bottom: 10rem;
+
+}
+/* prediction.css */
+.underline {
+    text-decoration: underline;
+}
+
+/* Heading Styles */
+h1 {
+    color: #484a46;
+    font: 700 2.5rem/3rem "Montserrat", sans-serif;
+    margin-bottom: 55px;
+    text-align: center; /* Center align the header text */
+  }
+  
+  h2 {
+    color: #484a46;
+    font: 900 1.75rem/2.125rem "Montserrat", sans-serif;
+    margin-bottom: 55px;
+    font-weight: 900; /* Added extra bold font weight */
+  }
+  
+
+/* Link Styles */
+a {
+  color: #787976;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #787976;
+  text-decoration: underline;
+}
+
+a.green {
+  color: #14bf98;
+}
+
+/* Button Styles */
+.btn-solid-lg {
+  display: inline-block;
+  padding: 1.375rem 2.125rem;
+  border: 0.125rem solid #14bf98;
+  border-radius: 0.25rem;
+  background-color: #14bf98;
+  color: #fff;
+  font: 700 0.75rem/0 "Montserrat", sans-serif;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.btn-solid-lg:hover {
+  background-color: transparent;
+  color: #14bf98;
+  text-decoration: none;
+}
+
+/* Form Styles */
+.form-group {
+  position: relative;
+  margin-bottom: 1.25rem;
+  height: 4rem;
+  text-align: center;
+}
+
+.label-control {
+  position: absolute;
+  top: 0.61rem;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #787976;
+  opacity: 1;
+  font: 350 0.700rem/1.375rem "Open Sans", sans-serif;
+  cursor: text;
+  transition: all 0.2s ease;
+}
+
+/* IE10+ hack to solve lower label text position compared to the rest of the browsers */
+@media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {
+  .label-control {
+    top: 0.9375rem;
+  }
+}

@@ -1,0 +1,251 @@
+id,Loan_amount,Purpose_of_loan,Annual_income,FICO_score,Mortgages,Employment_status,Debt_to_income_ratio,Terms,House_ownership,Loan_status
+1,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+2,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+3,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+4,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+5,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Mortgage,Not default
+6,30000,Education,70000,700,0,Employed,0.2,36,Own,Not default
+7,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+8,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+9,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+10,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+11,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+12,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+13,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+14,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+15,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+16,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+17,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+18,20000,Vacation,80000,720,2,Employed,0.3,60,Mortgage,Not default
+19,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+20,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+21,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+22,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+23,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+24,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+25,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+26,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+27,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+28,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+29,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+30,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+31,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+32,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+33,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+34,30000,Education,70000,700,0,Employed,0.2,36,Own,Not default
+35,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+36,25000,Medical expenses,60000,680,1,Employed,0.35,48,Rent,Not default
+37,15000,Vacation,45000,620,0,Employed,0.4,36,Own,Not default
+38,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+39,20000,Education,80000,720,2,Employed,0.3,60,Rent,Not default
+40,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Own,Not default
+41,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+42,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+43,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+44,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+45,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+46,20000,Vacation,80000,720,2,Employed,0.3,60,Own,Not default
+47,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Rent,Not default
+48,30000,Education,70000,700,0,Employed,0.2,36,Own,Not default
+49,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+50,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+51,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+52,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+53,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+54,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+55,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+56,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+57,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+58,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+59,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+60,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+61,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+62,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+63,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+64,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+65,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+66,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+67,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+68,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+69,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+70,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+71,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+72,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+73,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+74,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+75,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+76,30000,Education,70000,700,0,Employed,0.2,36,Own,Not default
+77,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+78,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+79,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+80,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+81,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+82,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+83,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+84,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+85,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+86,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+87,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+88,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+89,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+90,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+91,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+92,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+93,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+94,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+95,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+96,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+97,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+98,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+99,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+100,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+101,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+102,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+103,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+104,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+105,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+106,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+107,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+108,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+109,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+110,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+111,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+112,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+113,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+114,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+115,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+116,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+117,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+118,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+119,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+120,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+121,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+122,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+123,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+124,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+125,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+126,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+127,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+128,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+129,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+130,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+131,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+132,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+133,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+134,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+135,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+136,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+137,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+138,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+139,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+140,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+141,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+142,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+143,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+144,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+145,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+146,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+147,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+148,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+149,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+150,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+151,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+152,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+153,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+154,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+155,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+156,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+157,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+158,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+159,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+160,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+161,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+162,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+163,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+164,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+165,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+166,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+167,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+168,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+169,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+170,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+171,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+172,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+173,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+174,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+175,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+176,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+177,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+178,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+179,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+180,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+181,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+182,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+183,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+184,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+185,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+186,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+187,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+188,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+189,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+190,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+191,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+192,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+193,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+194,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+195,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+196,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+197,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+198,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+199,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+200,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+201,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+202,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+203,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+204,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+205,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+206,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+207,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+208,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+209,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+210,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+211,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+212,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+213,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+214,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+215,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+216,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+217,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+218,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+219,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+220,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+221,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+222,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+223,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+224,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+225,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+226,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+227,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+228,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+229,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+230,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+231,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+232,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+233,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+234,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+235,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+236,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default
+237,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,Not default
+238,12000,Vacation,40000,640,0,Employed,0.45,36,Own,Not default
+239,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,Not default
+240,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,Not default
+241,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,Default
+242,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,Not default
+243,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,Not default
+244,30000,Education,70000,700,0,Employed,0.2,36,Rent,Not default
+245,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,Not default
+246,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,Not default
+247,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,Not default
+248,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,Default
+249,20000,Education,80000,720,2,Employed,0.3,60,Own,Not default
+250,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,Not default

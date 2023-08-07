@@ -1,0 +1,251 @@
+id,Loan_amount,Purpose_of_loan,Annual_income,FICO_score,Mortgages,Employment_status,Debt_to_income_ratio,Terms,House_ownership,Loan_status
+1,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+2,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+3,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+4,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+5,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Mortgage,ND
+6,30000,Education,70000,700,0,Employed,0.2,36,Own,ND
+7,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+8,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+9,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+10,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+11,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+12,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+13,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+14,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+15,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+16,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+17,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+18,20000,Vacation,80000,720,2,Employed,0.3,60,Mortgage,ND
+19,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+20,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+21,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+22,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+23,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+24,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+25,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+26,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+27,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+28,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+29,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+30,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+31,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+32,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+33,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+34,30000,Education,70000,700,0,Employed,0.2,36,Own,ND
+35,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+36,25000,Medical expenses,60000,680,1,Employed,0.35,48,Rent,ND
+37,15000,Vacation,45000,620,0,Employed,0.4,36,Own,ND
+38,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+39,20000,Education,80000,720,2,Employed,0.3,60,Rent,ND
+40,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Own,ND
+41,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+42,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+43,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+44,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+45,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+46,20000,Vacation,80000,720,2,Employed,0.3,60,Own,ND
+47,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Rent,ND
+48,30000,Education,70000,700,0,Employed,0.2,36,Own,ND
+49,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+50,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+51,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+52,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+53,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+54,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+55,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+56,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+57,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+58,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+59,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+60,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+61,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+62,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+63,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+64,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+65,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+66,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+67,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+68,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+69,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+70,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+71,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+72,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+73,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+74,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+75,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+76,30000,Education,70000,700,0,Employed,0.2,36,Own,ND
+77,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+78,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+79,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+80,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+81,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+82,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+83,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+84,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+85,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+86,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+87,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+88,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+89,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+90,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+91,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+92,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+93,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+94,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+95,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+96,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+97,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+98,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+99,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+100,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+101,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+102,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+103,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+104,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+105,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+106,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+107,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+108,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+109,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+110,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+111,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+112,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+113,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+114,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+115,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+116,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+117,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+118,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+119,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+120,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+121,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+122,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+123,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+124,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+125,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+126,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+127,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+128,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+129,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+130,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+131,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+132,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+133,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+134,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+135,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+136,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+137,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+138,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+139,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+140,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+141,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+142,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+143,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+144,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+145,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+146,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+147,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+148,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+149,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+150,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+151,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+152,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+153,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+154,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+155,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+156,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+157,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+158,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+159,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+160,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+161,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+162,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+163,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+164,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+165,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+166,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+167,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+168,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+169,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+170,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+171,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+172,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+173,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+174,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+175,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+176,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+177,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+178,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+179,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+180,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+181,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+182,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+183,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+184,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+185,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+186,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+187,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+188,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+189,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+190,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+191,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+192,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+193,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+194,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+195,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+196,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+197,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+198,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+199,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+200,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+201,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+202,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+203,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+204,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+205,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+206,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+207,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+208,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+209,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+210,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+211,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+212,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+213,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+214,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+215,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+216,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+217,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+218,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+219,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+220,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+221,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+222,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+223,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+224,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+225,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+226,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+227,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+228,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+229,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+230,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+231,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+232,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+233,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+234,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+235,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+236,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
+237,30000,Medical expenses,70000,700,0,Employed,0.2,36,Mortgage,ND
+238,12000,Vacation,40000,640,0,Employed,0.45,36,Own,ND
+239,25000,Debt consolidation,60000,680,1,Employed,0.35,48,Rent,ND
+240,15000,Home improvement,45000,620,0,Employed,0.4,36,Mortgage,ND
+241,10000,Medical expenses,30000,590,0,Unemployed,0.25,24,Own,D
+242,20000,Vacation,80000,720,2,Employed,0.3,60,Rent,ND
+243,18000,Debt consolidation,50000,670,1,Self-employed,0.35,48,Own,ND
+244,30000,Education,70000,700,0,Employed,0.2,36,Rent,ND
+245,12000,Home improvement,40000,640,0,Employed,0.45,36,Mortgage,ND
+246,25000,Medical expenses,60000,680,1,Employed,0.35,48,Own,ND
+247,15000,Vacation,45000,620,0,Employed,0.4,36,Rent,ND
+248,10000,Debt consolidation,30000,590,0,Unemployed,0.25,24,Mortgage,D
+249,20000,Education,80000,720,2,Employed,0.3,60,Own,ND
+250,18000,Home improvement,50000,670,1,Self-employed,0.35,48,Rent,ND
