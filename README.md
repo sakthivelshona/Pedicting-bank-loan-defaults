@@ -32,7 +32,8 @@ In this project, we explore historical loan data, preprocess it, and train machi
    git clone https://github.com/your-username/predicting-loan-defaults.git
 
 1. Install the reuired libraries:
-   
+
+   ```bash
    pip install -r requirements.txt
 
 
@@ -50,11 +51,11 @@ Follow these steps to utilize the project:
 
 This project makes use of several key technologies and libraries:
 
-- [Python](https://www.python.org/): The primary programming language for the project.
-- [Jupyter Notebook](https://jupyter.org/): An interactive environment for running and sharing code.
-- [Pandas](https://pandas.pydata.org/): A versatile data manipulation library for data preprocessing and analysis.
-- [NumPy](https://numpy.org/): A fundamental package for scientific computing, providing support for arrays, matrices, and mathematical functions.
-- [Matplotlib](https://matplotlib.org/): A comprehensive library for creating static, animated, and interactive visualizations in Python.
-- [Seaborn](https://seaborn.pydata.org/): Built on top of Matplotlib, Seaborn offers an interface for creating aesthetically pleasing statistical graphics.
-- [Scikit-Learn](https://scikit-learn.org/): A machine learning library that provides simple and efficient tools for data mining and data analysis.
+- [Python](https://www.python.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [NumPy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Scikit-Learn](https://scikit-learn.org/)
 
